@@ -1,3 +1,3 @@
-# Arik
+### Arik
 
 📚 Software Engineering @ York University
